@@ -1,4 +1,4 @@
-## Hi, I'm Tran Tan Khoa there 👋
+## 👋 Hi, I'm Tran Tan Khoa there 
 
 I am a final-year Honors student in Mechatronics Engineering at Ho Chi Minh City University of Technology (HCMUT). Transitioning from designing intelligent physical systems to exploring core computational intelligence, my research focuses on Machine Learning, Deep Learning, Generative AI, and Autonomous Robotics. I have experience in meta-heuristic optimization, 3D computer vision, and nonlinear control, and I am eager to advance AI methodologies capable of reasoning over complex scientific and physical domains.
 
@@ -12,7 +12,7 @@ I am a final-year Honors student in Mechatronics Engineering at Ho Chi Minh City
 - 📫 How to reach me: [trantankhoa1111@gmail.com](mailto:trantankhoa1111@gmail.com)
 - 😄 Pronouns: He/Him
 
-## Publications
+## 📚 Publications
 
 - Thanh Nhat Luong, Long Ngo Le Hoang, **Tan Khoa Tran**, Ngoc Cuong Truong, and Duy Anh Nguyen (2026). *Advanced Hybrid Metaheuristic Framework for Spiral Rubber Tapping Trajectory Optimization on Curved Tree Trunks*. Alexandria Engineering Journal (Q1). [https://doi.org/10.1016/j.aej.2026.09.013](https://doi.org/10.1016/j.aej.2026.09.013)
 - **Tran Tan Khoa**, Nguyen Duc Dung, Tran Thien Loc, Nguyen Chi Kiet, Le Duc Huy, and Luong Thanh Nhat (2025). *Application of AI in plastic waste classification at source*. The 9th OISP Science and Technology Symposium for Students (OSTS 2025), HCMUT, VNU-HCM.
@@ -23,7 +23,8 @@ I am a final-year Honors student in Mechatronics Engineering at Ho Chi Minh City
 - **Automatic Rubber Tapping System** *(VNU-HCM Type A Project, 2025–Present)*: Developed hybrid meta-heuristic optimization for 3D spiral trajectory planning and point-cloud feature extraction pipelines.
 - **Swerve Drive Wheel System** *(Graduation Thesis, Project Leader, 2026)*: Formulated kinematic/dynamic models and SMC-FOC motion control algorithms for high-precision trajectory tracking.
 - **AI-Based Plastic Waste Classification** *(Student Research Project Leader, 2024–2025)*: Built lightweight deep learning models on edge devices for automated sorting (>90% accuracy, *Top 20 Bach Khoa Innovation 2024*).
-- **Multi-DOF Positioning Control & AGV Navigation** *(Student Research Projects, 2024–Present)*: Designed closed-loop actuator control, state estimation, and reactive obstacle avoidance algorithms for robotic platforms.
+- **Obstacle Avoidance & Navigation for AGV Robots** *(Student Research Project, Core Member, 2026–Present)*: Formulated sensor-fusion state estimation and reactive local obstacle avoidance algorithms for stable navigation in dynamic environments.
+- **Positioning Control System for Rubber-Tapping Module** *(Student Research Project, Core Member, 2024–2025)*: Modeled multi-DOF actuator dynamics and designed closed-loop positioning control algorithms to maintain cutting stability under variable wood resistance.
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/tankhoa-tran
