@@ -27,4 +27,4 @@ I am a final-year Honors student in Mechatronics Engineering at Ho Chi Minh City
 - **Positioning Control System for Rubber-Tapping Module** *(Student Research Project, Core Member, 2024–2025)*: Modeled multi-DOF actuator dynamics and designed closed-loop positioning control algorithms to maintain cutting stability under variable wood resistance.
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/tankhoa-tran
+[LinkedIn](https://www.linkedin.com/in/tankhoa-tran)
