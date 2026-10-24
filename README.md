@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tran Tan Khoa there 
+## 👋 Hi, I'm Tran Tan Khoa
 
 I am a final-year Honors student in Mechatronics Engineering at Ho Chi Minh City University of Technology (HCMUT). Transitioning from designing intelligent physical systems to exploring core computational intelligence, my research focuses on Machine Learning, Deep Learning, Generative AI, and Autonomous Robotics. I have experience in meta-heuristic optimization, 3D computer vision, and nonlinear control, and I am eager to advance AI methodologies capable of reasoning over complex scientific and physical domains.
 
